@@ -15,7 +15,7 @@ public class Ejercicio01Relacion4 {
 	
 	public static void main(String[] args) {
 		
-		// Variables
+		// Variables.nuevo
 		int numero;
 		int limiteInferior;
 		int limiteSuperior;
